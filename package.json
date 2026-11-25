@@ -1,0 +1,1 @@
+{"description":"One office-life joke, written to entry.txt for make.fun's Make the AI Judge Laugh bounty.","license":"MIT","main":"main.ts","name":"u-alfasurya91-make-the-ai-judge-laugh-6ed40225","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
